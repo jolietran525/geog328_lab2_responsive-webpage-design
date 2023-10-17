@@ -1,1 +1,1 @@
-# geog328_lab2_responsive-webpage-design
+# geog328_responsive-webpage-design
